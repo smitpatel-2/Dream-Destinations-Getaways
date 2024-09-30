@@ -1,4 +1,4 @@
-# Dream-Destinations-Getaways
+# Dream Destinations Getaways - Travel Website
 ## Course Project for SEIT1010 - Introduction to Web Designing
 ### Tech Stack: HTML, CSS, JavaScript
 - Developed a static tourism website for trip packages and journey information.
