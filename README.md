@@ -1,6 +1,6 @@
 # Dream-Destinations-Getaways
-Course Project for SEIT1010 - Introduction to Web Designing
-Tech Stack: HTML, CSS, JavaScript
+## Course Project for SEIT1010 - Introduction to Web Designing
+### Tech Stack: HTML, CSS, JavaScript
 - Developed a static tourism website for trip packages and journey information.
 - Gallery: Created interactive image gallery with lightbox effect using JavaScript.
 - Itinerary & Tour Plans: Displayed detailed itineraries and tour plans; added downloadable PDFs for offline access.
